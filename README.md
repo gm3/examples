@@ -19,9 +19,6 @@
 
 ![](https://i.imgur.com/IDVP6hb.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dvW_bz6eNqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-kc1wK7p5jM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -47,7 +44,7 @@
 
 ### TV / News Stations
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WaTeheSCbgI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ![](https://i.imgur.com/cfpN7hz.jpg)
 
@@ -187,14 +184,5 @@
 
 ![](https://i.imgur.com/xH2DsgV.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J7VoOHTQYa0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WF2XQX05Tt8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Over 300K Views!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5S-u0AlIp1Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G6gQ5dwBKe0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
